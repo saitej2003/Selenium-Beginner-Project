@@ -8,13 +8,6 @@ Prerequisites:
   4.	An Integrated Development Environment (IDE) such as Eclipse, VS code or IntelliJ IDEA
 
 
-Getting Started:
-  1.	Open the project in your IDE.
-  2.	Add Selenium WebDriver to your project's classpath.
-  3.	Open the test class and modify the URL variable to reflect the website you want to test.
-  4.	Run the test class to start the testing process.
-
-
 Test Execution:
   1.	The test class uses Selenium WebDriver to interact with the website's elements and perform various actions.
   2.	The test results are displayed in the IDE console, indicating whether each test has passed or failed.
